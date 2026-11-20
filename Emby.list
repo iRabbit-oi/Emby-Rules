@@ -5,5 +5,5 @@ host-suffix,std.cn2gias.uk,Emby_Proxy
 host,api.pvzhe.com,Emby_Proxy
 host,api.country.is,Emby_Proxy
 host,www.lilyemby.com,Emby_Proxy
-host,hk2-stream.lilyemby.app,Emby_Proxy
-host-suffix,lilyemby.app,Emby_Proxy
+host,stream.lilyemby.app,Emby_Proxy
+host-keyword,-stream.lilyemby.app,Emby_Proxy
