@@ -6,5 +6,5 @@ payload:
   - 'DOMAIN,api.pvzhe.com'
   - 'DOMAIN,api.country.is'
   - 'DOMAIN,www.lilyemby.com'
-  - 'DOMAIN,hk2-stream.lilyemby.app'
-  - 'DOMAIN-SUFFIX,lilyemby.app'
+  - 'DOMAIN,stream.lilyemby.app'
+  - 'DOMAIN-REGEX,^[a-z0-9-]+-stream[.]lilyemby[.]app$'
