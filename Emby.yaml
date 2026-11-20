@@ -7,3 +7,4 @@ payload:
   - 'DOMAIN,api.country.is'
   - 'DOMAIN,www.lilyemby.com'
   - 'DOMAIN,hk2-stream.lilyemby.app'
+  - 'DOMAIN-SUFFIX,lilyemby.app'
